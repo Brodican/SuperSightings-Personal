@@ -3,7 +3,7 @@
  
  # **Release Notes**
 
-****Functional Features****
+###Functional Features
 
 You are presented with a home page upon starting the application with a number of buttons and a list of most recently viewed sightings, and some buttons.
 
@@ -62,7 +62,7 @@ You are presented with a home page upon starting the application with a number o
 - They each have the navigation bar.
 - Below the navigation bar, they each have a &quot;Confirm&quot; button and a &quot;Cancel&quot; button – the confirm button deletes the previously selected entity from its respective table (it deleted the tuple of the table with an ID equivalent to the ID of the entity selected in the list of the previous page), while the cancel button returns the user to the respective entity list page without deleting the chosen entity.
 
-**Non-Functional Features**
+###Non-Functional Features
 
 - All added and edited data is saved in a local database.
 - Data is read from the local database.
