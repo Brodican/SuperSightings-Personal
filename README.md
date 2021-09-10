@@ -3,7 +3,7 @@
  
  # **Release Notes**
 
-**Functional Features**
+****Functional Features****
 
 You are presented with a home page upon starting the application with a number of buttons and a list of most recently viewed sightings, and some buttons.
 
