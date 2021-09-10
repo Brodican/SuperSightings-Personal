@@ -5,7 +5,7 @@
 
 ### Functional Features
 
-You are presented with a home page upon starting the application with a number of buttons and a list of most recently viewed sightings, and some buttons.
+You are presented with a home page upon starting the application with a number of buttons and a list of the most recently viewed sightings, alongside some buttons.
 
 **The Home Page:**
 
